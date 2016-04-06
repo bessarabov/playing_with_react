@@ -1,0 +1,6 @@
+docker run \
+    --rm \
+    -it \
+    --publish 80:80 \
+    --name playing_with_react \
+    playing_with_react
